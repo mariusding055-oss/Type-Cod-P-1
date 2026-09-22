@@ -1,0 +1,19 @@
+@font-face{
+	font-family: "lol";
+	src: url("msf.otf") format("opentype")
+}
+
+
+body{
+	font-family: "lol";
+	text-transform: uppercase;
+}
+
+
+p{
+	font-size: 5vm;
+	letter-spacing: -.25em;
+	
+}
+
+
